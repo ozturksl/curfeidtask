@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-    <section class="primary-light-bg">
+    <section>
         <div class="container py-lg-5 p-4">
             <div class="row">
                 <div class=" reset-width-limit col-12 pt-5 bg-white shadow-sm rounded-2 mx-auto">

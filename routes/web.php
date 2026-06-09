@@ -29,3 +29,7 @@ Route::get('/privacypol', function () {
 Route::get('/terms', function () {
     return view('front.terms');
 })->name('terms');
+
+Route::get('/support', function(){
+    return view('front.support');
+})->name('support');

@@ -114,9 +114,9 @@
                             <h1 class="h2 text-white">Verilerinizle ilgili sorularınız mı var?</h1>
                             <h1 class="h5 pt-3 text-white">Özel gizlilik ekibimiz, her türlü endişenizi gidermek için
                                 burada.</h1>
-                            <a href="#"
+                            <a href="{{ route('support') }}"
                                 class="custom-policy-button text-decoration-none rounded-5 fs-5 custom-weight-6 d-inline-block mt-4 shadow-lg px-lg-5 px-3 py-1 py-lg-3 ">
-                                Gizlilik Ekibiyle İletişime Geçin
+                                Destek İle İletişime Geçin
                             </a>
                         </div>
                     </div>
